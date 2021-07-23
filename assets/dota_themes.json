@@ -1,0 +1,41 @@
+[{
+  "categoryName": "Biru",
+  "heroes": [12,25]
+},{
+  "categoryName": "Purple",
+  "heroes": [1,2,3,6,28,30,32,41,46,50,55,61,67,113,119,126]
+},{
+  "categoryName": "RED",
+  "heroes": [4,11,25,26,37,49,56,57,69,79,81,104,106,110,121,129]
+},{
+  "categoryName": "Skeleton",
+  "heroes": [3,30,36,42,45,50,56]
+}, {
+  "categoryName": "Dragon",
+  "heroes": [49,28,47,89,64,112]
+}, {
+  "categoryName": "Supernatural",
+  "heroes": [43,3,30,45,67,109,41,113,56,69,14,36,85,42]
+},{
+  "categoryName": " Demon Vampire Creature",
+  "heroes": [43,3,30,67,14,45,109,41,113,56,69,36,85,42]
+},{
+  "categoryName": "Fat",
+  "heroes": [14,84,73,78,108]
+},{
+  "categoryName": "Bugs",
+  "heroes": [16,61,63,88,119,13]
+  },{
+  "categoryName": "Netting / Trap",
+    "heroes": [82,95,89,123,21,46,105]
+},{
+  "categoryName": "Trasformation",
+  "heroes": [77,109,80,60,49,78]
+},{
+  "categoryName": "Dwarf",
+  "heroes": [51,128,35,34,22]
+}]
+ 
+ 
+
+ 
