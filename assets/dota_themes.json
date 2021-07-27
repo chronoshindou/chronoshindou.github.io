@@ -31,7 +31,10 @@
 },{
   "categoryName": "Dwarf",
   "heroes": [51,128,35,34,22]
-},{"categoryName":"Cape","heroes":[111,26,5,104,86,42,8]}]
+},{
+  "categoryName":"Cape",
+   "heroes":[111,26,5,104,86,42,8]
+}]
  
  
 
